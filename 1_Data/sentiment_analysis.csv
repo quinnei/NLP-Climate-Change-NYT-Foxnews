@@ -1,0 +1,21 @@
+Types of Emotion,Relative Frequency (%),News
+fear,11.07,NYT
+disgust,4.293,NYT
+trust,14.752,NYT
+positive,20.615,NYT
+joy,5.007,NYT
+anticipation,8.496,NYT
+surprise,5.844,NYT
+anger,7.588,NYT
+negative,16.419,NYT
+sadness,5.915,NYT
+fear,11.091,Foxnews
+disgust,4.049,Foxnews
+trust,14.533,Foxnews
+positive,19.565,Foxnews
+joy,5.707,Foxnews
+anticipation,7.319,Foxnews
+surprise,6.419,Foxnews
+anger,7.919,Foxnews
+negative,16.85,Foxnews
+sadness,6.547,Foxnews
