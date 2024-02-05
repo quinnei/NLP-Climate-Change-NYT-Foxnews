@@ -30,5 +30,5 @@
 <br> :notebook_with_decorative_cover::pencil2: Link to the [Summary Report](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/3_Summary%20Report/Insight%20Report_Climate%20Change%20Discourse%20in%20the%20U.S.%20Media.pdf)
 
 <br> :small_orange_diamond: The New York Times and Fox News may not be so ‘poles apart’ in their discussion of climate change <br>
-:small_orange_diamond: However, the New York Times covers a broader spectrum of topics and puts greater emphasis on America’s struggles with decarbonization <br>
+:small_orange_diamond: That being said, the New York Times covers a broader spectrum of topics and puts greater emphasis on America’s struggles with decarbonization <br>
 :small_orange_diamond: Since Fox News does make frequent reference to credible scientific research, America’s partisan divide in climate change beliefs may be explained by self-confirmation bias and selective exposure to climate-related news 
