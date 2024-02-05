@@ -15,8 +15,8 @@
 
 ## III. Machine Learning Model
 
-:small_orange_diamond: LDA Topic Modelling (Data cleaning phase) <br>
-:small_orange_diamond: Sentiment Analysis (Data cleaning phase)
+:small_orange_diamond: LDA Topic Modelling <br>
+:small_orange_diamond: Sentiment Analysis
 
 <br> 📜 🖥️ 👩‍💻 <ins>**Python Script**</ins> <br>
 1-a. [Webscraping for Fox News](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/1_Webscraping_for_Foxnews%20(FINAL).ipynb) <br>
