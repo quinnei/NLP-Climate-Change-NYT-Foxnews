@@ -19,11 +19,11 @@
 :small_orange_diamond: Sentiment Analysis
 
 <br> 📜 🖥️ 👩‍💻 <ins>**Python Script**</ins> <br>
-1-a. [Webscraping for Fox News](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/1_Webscraping_for_Foxnews%20(FINAL).ipynb) <br>
-1-b. [Webscraping for the New York Times](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/1_Webscraping_for_NYT%20(FINAL).ipynb) <br>
-2. [Exploratory Analysis](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/2_Exploratory_analysis%20(FINAL).ipynb) <br>
-3. [Data Cleaning & Topic Modeling](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/3_Data_cleaning_and_LDA%20(FINAL).ipynb) <br>
-4. [Sentiment Analysis](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/4_Sentiment%20analysis%20(FINAL).ipynb)
+1-a. [Webscraping for Fox News](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/1_Webscraping_for_Foxnews.ipynb) <br>
+1-b. [Webscraping for the New York Times](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/1_Webscraping_for_NYT.ipynb) <br>
+2. [Exploratory Analysis](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/2_Exploratory_analysis.ipynb) <br>
+3. [Data Cleaning & Topic Modeling](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/3_Data_cleaning_and_LDA.ipynb) <br>
+4. [Sentiment Analysis](https://github.com/quinnei/NLP-Climate-Change-NYT-Foxnews/blob/main/2_Code/4_Sentiment%20analysis.ipynb)
 
 ## IV. Findings
 
